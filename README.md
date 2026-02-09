@@ -1,4 +1,4 @@
-# Trivy Image Scan Parser & Aggregator
+# Trivy Image Scan Parser
 
 A lightweight python extensible parser built around **Trivy container image scanning** that converts Trivy JSON reports into structured CSV outputs and generates **aggregate security summaries across multiple builds and images**.
 where raw Trivy output is too noisy and hard to consume directly.
